@@ -20,4 +20,4 @@ log.SetOutput(&lumberjack.Logger{
 
 ### Screenshot 
 
-![goLumberjackLogger](https://github.com/yakutozcan/goLumberjackLogger/blob/master/screen.png?raw=true)
+![goLumberjackLogger](https://github.com/yakutozcan/goLumberjackLogger/blob/main/screen.png?raw=true)
